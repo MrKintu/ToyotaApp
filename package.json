@@ -1,0 +1,19 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "Toyota App",
+  "main": "login.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MrKintu/ToyotaApp.git"
+  },
+  "author": "d-kintu@outlook.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MrKintu/ToyotaApp/issues"
+  },
+  "homepage": "https://github.com/MrKintu/ToyotaApp#readme"
+}
